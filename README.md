@@ -17,7 +17,7 @@ Firstly, you need to import the CSS. It is recommended that you do this at the a
 <pre>
 import App from '@/App.vue'
 import { createApp } from 'vue'
-<b>import 'vue3-flag-icons/styles'</b>
+<b>import 'vue3-flag-icons/styles'</b>  // <-- importing the css
 
 createApp(App).mount('#app')
 </pre>
