@@ -1,5 +1,5 @@
 {
-  "name": "vue3-flag-icons",
+  "name": "eeas-vue3-flag-icons",
   "private": false,
   "version": "0.0.2",
   "description": "A vue3 component library for flag icons",
@@ -49,9 +49,6 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
     "format": "prettier --write src/",
     "generate-country-code": "node src/scripts/generate-country-code"
-  },
-  "dependencies": {
-    "flag-icons": "^6.9.1"
   },
   "peerDependencies": {
     "vue": "^3.3.4"

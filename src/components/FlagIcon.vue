@@ -25,7 +25,7 @@ const computedTitle: string =
 </template>
 
 <style scoped>
-@import 'flag-icons/css/flag-icons.min.css';
+@import '@/flag-icons/css/flag-icons.min.css';
 
 .round {
   border-radius: 50%;
